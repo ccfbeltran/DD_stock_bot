@@ -1,0 +1,6 @@
+[submodule "Stock_Due_Diligence_bot"]
+	path = Stock_Due_Diligence_bot
+	url = git@github.com:ccfbeltran/Stock_Due_Diligence_bot.git
+[submodule "dexter-duedeligencebot"]
+	path = dexter-duedeligencebot
+	url = git@github.com:ccfbeltran/dexter-duedeligencebot.git
