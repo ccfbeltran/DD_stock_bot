@@ -1,0 +1,5 @@
+{
+  "stock_dd_output": "Stock_Due_Diligence_bot/data/output",
+  "dexter_root": "dexter-duedeligencebot",
+  "bun_path": "C:\\Users\\carlos\\.bun\\bin\\bun.exe"
+}

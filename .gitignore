@@ -1,0 +1,16 @@
+# API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Reports (generated output)
+reports/
+
+# Dexter cache
+.dexter/
+
+# IDE
+.vscode/
+.idea/
